@@ -54,7 +54,7 @@ class Reader(object):
         self.verbose = verbose
         self.download_enabled = download_enabled
 
-        self.model_storage_directory = MODULE_PATH + '/model'
+        self.model_storage_directory = + '/model'
         if model_storage_directory:
             self.model_storage_directory = model_storage_directory
         Path(self.model_storage_directory).mkdir(parents=True, exist_ok=True)
