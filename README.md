@@ -1,5 +1,7 @@
 # EasyOCR
 
+## This is strictly for personal use to fulfill the requirements of some of my repos. Do Not Clone. The code here is edited.
+
 [![PyPI Status](https://badge.fury.io/py/easyocr.svg)](https://badge.fury.io/py/easyocr)
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/JaidedAI/EasyOCR/blob/master/LICENSE)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.to/easyocr)
@@ -172,7 +174,3 @@ See [List of languages in development](https://github.com/JaidedAI/EasyOCR/issue
 ## Github Issues
 
 Due to limited resources, an issue older than 6 months will be automatically closed. Please open an issue again if it is critical.
-
-## Business Inquiries
-
-For Enterprise Support, [Jaided AI](https://www.jaided.ai/) offers full service for custom OCR/AI systems from implementation, training/finetuning and deployment. Click [here](https://www.jaided.ai/contactus?ref=github) to contact us.
